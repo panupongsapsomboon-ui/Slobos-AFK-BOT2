@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Technoblade",
     "password": "",
-    "type": "offline"
+    "type": "Online"
   },
   "server": {
     "ip": "yumyum302.aternos.me",
@@ -26,13 +26,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "",
+        "",
+        ""
       ]
     },
     "chat-log": true,
